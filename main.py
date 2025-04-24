@@ -1,1 +1,2 @@
-print('abc')
+print('abcdef')
+print('a')
