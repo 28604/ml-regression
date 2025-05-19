@@ -1,2 +1,0 @@
-print('abcdef')
-print('a')
