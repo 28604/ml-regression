@@ -30,3 +30,7 @@ Your final score in this part will be determined based on the ranking of your pe
 ### Other Details
 * K-means to find cluster centroids for Gaussian basis function
 * K-fold cross validation to avoid overfitting
+
+### Challenges
+* Find the best basis function and cluster centroids' locations.
+* Balance the number weights used and mean squared error.
