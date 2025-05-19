@@ -1,9 +1,13 @@
 # ml-regression
 
-Regression algorithm using linear models coded using only NumPy.
+Regression algorithm using linear models coded from scratch.
 
 ### Problem: use different regression approaches to predict altitudes of southern Taiwan
+![alt text](http://url/to/img.png)
 
-### Methods: maximum likelihood, maximum a posteriori, Bayesian regression method
+### Methods:
+* Maximum Likelihood
+* Maximum A Posteriori
+* Bayesian Regression Method
 
 some text
